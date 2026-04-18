@@ -23,8 +23,8 @@ Data exploration to identify patterns, distributions, and correlations.
 Visualization of data through graphs and plots.
 Handling missing data and outliers.
 
-<i>Notebook: [1.0-exploration-reports.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/1.0-exploration-reports.ipynb)</i>
-<br><i>Reports: [exploring-initial.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-initial) and [exploring-survives.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-survives)</i>
+<i>Notebook: [1.0-exploration-reports.ipynb](https://github.com/mar-junior/titanic-kaggle/blob/master/notebooks/1.0-exploration-reports.ipynb)</i>
+<br><i>Reports: [exploring-initial.html](https://projects.mar-junior.com/titanic-kaggle/reports/exploring-initial) and [exploring-survives.html](https://projects.mar-junior.com/titanic-kaggle/reports/exploring-survives)</i>
 
 * Data Preprocessing:
 
@@ -32,14 +32,14 @@ Treatment of missing values and outliers.
 Encoding of categorical variables.
 Feature engineering, if necessary.
 
-<i>Notebook: [2.0-cleaning-and-transformation.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/2.0-cleaning-and-transformation.ipynb)</i>
+<i>Notebook: [2.0-cleaning-and-transformation.ipynb](https://github.com/mar-junior/titanic-kaggle/blob/master/notebooks/2.0-cleaning-and-transformation.ipynb)</i>
 
 * Modeling:
 
 Selection of machine learning algorithms (e.g., Linear Regression, Logistic Regression, SVM).
 Training and tuning models using the training set.
 
-<i>Notebook: [3.0-model-tests.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/3.0-model-tests.ipynb)</i>
+<i>Notebook: [3.0-model-tests.ipynb](https://github.com/mar-junior/titanic-kaggle/blob/master/notebooks/3.0-model-tests.ipynb)</i>
 
 * Evaluation and Submission:
 
