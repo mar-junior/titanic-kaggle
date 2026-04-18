@@ -24,7 +24,7 @@ Visualization of data through graphs and plots.
 Handling missing data and outliers.
 
 <i>Notebook: [1.0-exploration-reports.ipynb](https://github.com/mar-junior/titanic-kaggle/blob/master/notebooks/1.0-exploration-reports.ipynb)</i>
-<br><i>Reports: [exploring-initial.html](https://projects.mar-junior.com/titanic-kaggle/reports/exploring-initial) and [exploring-survives.html](https://projects.mar-junior.com/titanic-kaggle/reports/exploring-survives)</i>
+<br><i>Reports: [exploring-initial.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-initial) and [exploring-survives.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-survives)</i>
 
 * Data Preprocessing:
 
